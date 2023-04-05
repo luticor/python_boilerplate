@@ -14,6 +14,9 @@ Features:
 * Sphinx documentation generation
 * `pyproject.toml` PEP 517/518 support
 
+# Resources
+Optimization Functions: https://www.sfu.ca/~ssurjano/borehole.html
+
 # Getting Started
 
 The project is ready to run as is. You will need Python 2.7 or later.
